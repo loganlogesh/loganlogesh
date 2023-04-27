@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/logan_s_42" target="blank"><img src="https://img.shields.io/twitter/follow/logan_s_42?logo=twitter&style=for-the-badge" alt="logan_s_42" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **logeshbsc8@gmail.com**
 
